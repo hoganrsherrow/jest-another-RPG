@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command-line rpg",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoganrsherrow/jest-another-RPG.git"
+  },
+  "author": "Hogan Sherrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoganrsherrow/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/hoganrsherrow/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
